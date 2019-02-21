@@ -1,7 +1,9 @@
-# Git Commands
+# Expensify App
+## [View live](https://expensify-app-ekkus.herokuapp.com/dashboard)
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Create a new commit with files from staging area
-git log - View recent commits
+App to track your expenses. Login with Google account.
+
+## What I learned
+
+- React and Redux
+- Authentication and database with Firebase
